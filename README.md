@@ -1,5 +1,5 @@
 # FestvialMessage
-写了一个简单的节日短信
+写了一个简单的节日短信练习tablayout+ViewPager+Fragment
 搭建框架时选择tablayout+ViewPager+Fragment来实现的界面绘制
 首先导入design包的tablayout和V4包的ViewPager，Fragment也是v4包的
 设置tablayout的基本属性，然后再代码中去给ViewPager设置适配器 
